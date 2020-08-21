@@ -8,7 +8,7 @@ void BuyAgain();
 	
 main()
 {
-	
+	// Added comment test
 	cout << "\t\t\tVending Machine\n" << endl;
 	cout << "\tChoices\t\t\tPrices\t\tStocks\n";
 	cout << "[1] Mineral Water\t|\t P15\t   |\t  " << array_stocks[0] << "\n"
